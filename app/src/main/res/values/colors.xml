@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e00051</color>
+    <color name="colorPrimaryDark">#b30049</color>
+
+    <color name="white">@android:color/white</color>
+    <color name="item_title">#cc1251d1</color>
+    <color name="item_subtitle">#605c58</color>
+    <color name="item_date">#7f7b7a</color>
+    <color name="item_image_bg">#ff0000</color>
+
+    <color name="btn_add_normal">#e00051</color>
+
+    <color name="divider">#c5c5c5</color>
+    <color name="edit_text">#514d49</color>
+</resources>
